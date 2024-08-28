@@ -2,7 +2,7 @@
 int main(){
 
 int myvar1;
-myvar1 = 10;
+myvar1 = 20;
 
 int myvar2;
 myvar2 = 50;
