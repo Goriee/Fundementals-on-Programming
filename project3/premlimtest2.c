@@ -7,8 +7,9 @@ int main(){
 
     scanf("%d", &num1);
     scanf("%d", &num2);
-    float result = num1 + num2;
-    printf("%f",result);
+    float result1 = num1 + num2;
+    float result2 = result1 / 2;
+    printf("%f", result2);
 
     return 0;
 
