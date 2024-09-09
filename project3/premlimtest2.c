@@ -7,9 +7,9 @@ int main(){
 
     scanf("%d", &num1);
     scanf("%d", &num2);
-    float result1 = num1 + num2;
-    float result2 = result1 / 2;
-    printf("%f", result2);
+    float sum = num1 + num2;
+    float average = sum / 2;
+    printf("%f", average);
 
     return 0;
 
